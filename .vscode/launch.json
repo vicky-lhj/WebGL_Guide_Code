@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "sourceMaps": false,
-            "file": "${workspaceRoot}/ch02/HelloPoint.html"
+            "file": "${workspaceRoot}/ch02/ClickedPoints.html"
         }
         // ,  
         // {
